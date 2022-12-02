@@ -1,0 +1,1 @@
+"Working solutions for every challenge included in the Advent of Code 2022. The code is written in javascript, using Node. If you want to test the solutions, just replace the "input.txt" file included in each challenge with your own input file." 
