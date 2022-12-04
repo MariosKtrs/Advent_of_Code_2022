@@ -62,4 +62,3 @@ for(j=0;j<array.length;j++){
 }
 
 console.log("Sum of the second challenge is ",sum);
-    
