@@ -1,3 +1,5 @@
+//DAY 4
+
 var fs = require('fs');
 var array = fs.readFileSync('input.txt', 'utf8').split('\n');
 
