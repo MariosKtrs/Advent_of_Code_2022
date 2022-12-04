@@ -11,7 +11,7 @@ function calculatePriority(char){
         /*If the character is uppercase, we convert it to lowercase and use the same code as above. This time though,
           we also add 26, because that's the difference between a lowercase character and its corresponding uppercase.*/           
         char=char.toLowerCase();
-        return (char.charCodeAt(0) - 96) +26;;
+        return (char.charCodeAt(0) - 96) +26;
     }      
 }
 
